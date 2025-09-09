@@ -4,7 +4,7 @@ function Title() {
   return (
     <h1
       className="uppercase text-2xl text-title text-center
-       tracking-[1rem] leading-[1.5] mb-10 lg:mb-22"
+       tracking-[1rem] leading-[1.5] mb-10 lg:mb-2"
     >
       Spli<br />tter
     </h1>
@@ -12,3 +12,4 @@ function Title() {
 }
 
 export default Title;
+
